@@ -1,0 +1,31 @@
+.logo{
+    width: 100px;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.marquee{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 50px;
+}
+.serarch{
+    width: 28px;
+    height: 28px;
+}
+.navbar-search-icon{
+    position: relative;
+}
+.dot{
+    position: absolute;
+    min-width: 10px;
+    min-height: 10px;
+    background-color: tomato;
+    border-radius: 5px;
+    top: -8px;
+    right: -8px;
+}
+nav .sticky{
+    position: sticky !important;
+}
